@@ -52,14 +52,6 @@ C:\Users\<your-username>\AppData\Roaming\SimCity\Preferences
 
 Replace <your-username> with your actual Windows account name.
 
-## 🧩 Tips
-
-If SimCity resets your settings, mark the file as read-only.
-
-You can use Borderless Gaming to simulate fullscreen in windowed mode.
-
-If your GPU is not recognized, spoof it in configmanager.txt or update VideoCards.txt.
-
 ##💡 Contribute
 
 Found more values? Help expand the table! Share your findings with:
@@ -71,3 +63,4 @@ Resolution and refresh rate
 GPU and monitor used
 
 This helps modern users unlock full graphics potential in SimCity 2013.
+
