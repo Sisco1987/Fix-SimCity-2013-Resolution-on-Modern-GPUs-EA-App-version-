@@ -52,6 +52,8 @@ C:\Users\<your-username>\AppData\Roaming\SimCity\Preferences
 
 Replace <your-username> with your actual Windows account name.
 
+The file name is Preferences.prop
+
 ##💡 Contribute
 
 Found more values? Help expand the table! Share your findings with:
@@ -63,4 +65,5 @@ Resolution and refresh rate
 GPU and monitor used
 
 This helps modern users unlock full graphics potential in SimCity 2013.
+
 
